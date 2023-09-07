@@ -1,1 +1,1 @@
-C Hello, World
+Langage C Hello, World
